@@ -1,0 +1,308 @@
+canonical_identifier: bkk:krp/KR6s0059/K/v1
+canonical_location: https://kanripo.org/bkk/KR6s0059/K/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 御製逍遙詠
+  identifiers:
+    krp: KR6s0059
+    cbeta: K35n1260
+    cbeta_old_id: K35n1260
+    authorityid: CA0003574
+    json_key: K1260
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/K/K35/K35n1260.xml
+    old_id: K35n1260
+  edition:
+    short: K
+assets:
+  parts:
+  - {seq: 0, filename: KR6s0059_000-K.yaml, hash: 'sha256:9642baa45bc4346b92be3191f33036fb2dec75519e52b9cec61f1a9e4e1c7fb8'}
+  - {seq: 1, filename: KR6s0059_001-K.yaml, hash: 'sha256:0b7fc73b17fed73fb98becbebfa72aca7804519ddebfbe7c289e56f85ed6cfd2'}
+  - {seq: 2, filename: KR6s0059_002-K.yaml, hash: 'sha256:e163321d97dd4a88c326ed62d62d27cd2cf63641019354bc3b062166e237849b'}
+  - {seq: 3, filename: KR6s0059_003-K.yaml, hash: 'sha256:02a1e3f68e11575cd982d7edb6bb25df1a8c67389880df1d3a5137a59a71e811'}
+  - {seq: 4, filename: KR6s0059_004-K.yaml, hash: 'sha256:4a1e6226ddb7dd22aab9a69f515f06cdd589ad10636f8be181e0746c4a270a38'}
+  - {seq: 5, filename: KR6s0059_005-K.yaml, hash: 'sha256:8aea05fb1fde6c14d23ab7d0e6845ffa8dab7d79a4cbb546c8609eed405a9631'}
+  - {seq: 6, filename: KR6s0059_006-K.yaml, hash: 'sha256:ce69b014c4ae5107f0a1fb266f3d23279038c01795e389f8f98041af979e4aa0'}
+  - {seq: 7, filename: KR6s0059_007-K.yaml, hash: 'sha256:5fcd88f7e841db015ad80b6c131e0e8def46bf72592729500b73f115f3bab5bc'}
+  - {seq: 8, filename: KR6s0059_008-K.yaml, hash: 'sha256:0b22a33ca37b950e9afb64ff980aea82cbda21904217b553b5e937ed04bed459'}
+  - {seq: 9, filename: KR6s0059_009-K.yaml, hash: 'sha256:d15e789514b87e750e042766d5560372aef3132ba21e6c9de89834e84694e94b'}
+  - {seq: 10, filename: KR6s0059_010-K.yaml, hash: 'sha256:1bb74dd9d5d71dfd8263ea0609c4072d61a3180610cbfbf80534d2a357048df9'}
+  - {seq: 11, filename: KR6s0059_011-K.yaml, hash: 'sha256:574569b9da3a1f031d69a2f7ddcbb47400d338f733f50d22cd0817493c79a455'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6s0059_000-K.markers.yaml, hash: 'sha256:f27994b93b783966337d42d022fe4665f42f05ab3a1db7078771340e8bf69266'}
+  - {seq: 1, role: markers, filename: assets/KR6s0059_001-K.markers.yaml, hash: 'sha256:cfb6f3e29734e5acacbe1104bc95df36904dffb5ac9f3e374d2929683a7c57e6'}
+  - {seq: 2, role: markers, filename: assets/KR6s0059_002-K.markers.yaml, hash: 'sha256:d15d7153fe688fe172a985b7debc38250412e0dc9483d16210efbc8e20242deb'}
+  - {seq: 3, role: markers, filename: assets/KR6s0059_003-K.markers.yaml, hash: 'sha256:7cf70740ccf51991f4c1489cc4aba60131dc0d9ae1ef8d23e90ab77ce8860537'}
+  - {seq: 4, role: markers, filename: assets/KR6s0059_004-K.markers.yaml, hash: 'sha256:a4f443149a1b9f7d68e400b7d76941908eff35817b2237d181eb593f5d405bf0'}
+  - {seq: 5, role: markers, filename: assets/KR6s0059_005-K.markers.yaml, hash: 'sha256:bea8e232062c4e3e16a8b63019dd8719b465669b3f7a5ef2329d1bd902c4863c'}
+  - {seq: 6, role: markers, filename: assets/KR6s0059_006-K.markers.yaml, hash: 'sha256:a3f011d9a7597cc83ef2ea6af006f4b167bbfd7a0c4cf41f1195e55b70c52f1f'}
+  - {seq: 7, role: markers, filename: assets/KR6s0059_007-K.markers.yaml, hash: 'sha256:511306ca653f6e1c84d6eebeac439f7093ad76f13676c3e24d15ef310dc15280'}
+  - {seq: 8, role: markers, filename: assets/KR6s0059_008-K.markers.yaml, hash: 'sha256:2d250425c3df5f42f5d401066e71d5fd18c5b49c2a57c1a4aeb56055ff3d4935'}
+  - {seq: 9, role: markers, filename: assets/KR6s0059_009-K.markers.yaml, hash: 'sha256:92d199be7a5329d1c7f7898b723c83a1c911da1773f0d69eecfe8bc71ee2bc44'}
+  - {seq: 10, role: markers, filename: assets/KR6s0059_010-K.markers.yaml, hash: 'sha256:b6b41a3b49d14b7bd15f873c0fd4364f3dc31ccce0498e1d3d01793ffa8f38d3'}
+  - {seq: 11, role: markers, filename: assets/KR6s0059_011-K.markers.yaml, hash: 'sha256:8f0d78c58743ef923dde32bdd6bc8d61de5a1d9c50792272ea428af6814e0c01'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6s0059_K_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0059_K_001-juan-start
+    span:
+    - body
+    - 0
+    - 4782
+  label: 御製逍遙詠卷第一五言
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0059_K_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 逍遙詠一
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0059_K_002-juan-start
+    span:
+    - body
+    - 0
+    - 4640
+  label: 御製逍遙詠卷第二五言　輕
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0059_K_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 逍遙詠二
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0059_K_003-juan-start
+    span:
+    - body
+    - 0
+    - 4506
+  label: 御製逍遙詠卷第三五言　輕
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0059_K_003-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 逍遙詠三
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6s0059_K_004-juan-start
+    span:
+    - body
+    - 0
+    - 4498
+  label: 御製逍遙詠卷第四五言　輕
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6s0059_K_004-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 逍遙詠四
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6s0059_K_005-juan-start
+    span:
+    - body
+    - 0
+    - 4293
+  label: 御製逍遙詠卷第五　　　　輕
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6s0059_K_005-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 逍遙詠五
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6s0059_K_006-juan-start
+    span:
+    - body
+    - 0
+    - 5133
+  label: 御製逍遙詠卷第六七言　輕
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6s0059_K_006-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 逍遙詠六
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6s0059_K_007-juan-start
+    span:
+    - body
+    - 0
+    - 5407
+  label: 御製逍遙詠卷第七七言　輕
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6s0059_K_007-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 逍遙詠七
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6s0059_K_008-juan-start
+    span:
+    - body
+    - 0
+    - 5249
+  label: 御製逍遙詠卷第八七言　輕
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6s0059_K_008-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 逍遙詠八
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6s0059_K_009-juan-start
+    span:
+    - body
+    - 0
+    - 5125
+  label: 御製逍遙詠卷第九七言　輕
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6s0059_K_009-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 逍遙詠九
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6s0059_K_010-juan-start
+    span:
+    - body
+    - 0
+    - 5196
+  label: 御製逍遙詠卷第十七言　輕
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6s0059_K_010-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 逍遙詠十
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6s0059_K_011-juan-start
+    span:
+    - body
+    - 0
+    - 6166
+  label: 御製逍遙詠卷第十一　　　輕
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6s0059_K_011-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 歌賦
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6s0059_K_011-mulu-2
+    span:
+    - body
+    - 19
+    - 19
+  label: 逍遙謌一首
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6s0059_K_011-mulu-3
+    span:
+    - body
+    - 2457
+    - 2457
+  label: 逍遙賦一首
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6s0059_K_011-mulu-4
+    span:
+    - body
+    - 4455
+    - 4455
+  label: 周穆王宴瑤池賦
+  type: mulu
+  level: 1
+hash: sha256:eedb0fb154febb9f8039e67842c73b827514b94237c3a0b91de3b0b988c03809
